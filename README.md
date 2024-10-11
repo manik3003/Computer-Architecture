@@ -27,7 +27,6 @@ Each module provides step-by-step instructions on how to compile and run the cod
 
 | Name                     | Entry Number |
 |--------------------------| -------------|
-| [Prashant Kumar](https://github.com/Prashant370)            | 2022CSB1202  |
-| [Pranav Dipesh Bhole](https://github.com/pranavbhole123) | 2022CSB1103  |
-| [Kartikey Sahu](https://github.com/kartikeysahu987)          | 2022CSB1087  |
+| [Prashant Kumar](https://github.com/manik3003)            | 2021MCB1187  |
+| [Pranav Dipesh Bhole](https://github.com/AnanyDhamija) | 2021MCB1231  |
 
